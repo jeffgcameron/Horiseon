@@ -111,7 +111,7 @@ main img {
     max-height: 200px;
 }
 
-main h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -123,6 +123,6 @@ footer {
     text-align: center;
 }
 
-footer h4 {
+h4 {
     font-size: 20px;
 }
