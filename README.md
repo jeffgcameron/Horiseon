@@ -67,5 +67,8 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
+## My Process
+In order to complete the accepted criteria, I first started by changing all the non semantic html tags to semantic html tags. I used figue, main, section, nav, aside, footer and header tags. I then changed the H2 element to H4 so that those went in order. After this was completed I changed all the css selectors to match the sematic html tags. I noticed a lot of css elements had the same style, so i consolidated those elements to their parent semantic html tags. i adjusted the padding of the aside so that the height maintched that of the main sections. This allowed the footer to be closer to the main element and made the overall page look cleaner. 
+
 ### Assignment Link 
  https://jeffgcameron.github.io/Horiseon/
